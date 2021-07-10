@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Kodluyoruz Ödev 2</title>
+</head>
+<body>
+  <h1> Eren Karaçil </h1>
+  <h2> Hakkımda </h2>
+  <p>Merhabalar, ben Eren Karaçil. Bulunduğu her ortamda iz bırakmak/fayda yaratmak için kendini geliştirmeyi amaçlayan bir gencim.</p>
+
+  <h2>Öneriler</h2>
+  <ol>
+    <li><ul type="circle">
+      <h3>Filmler</h3>
+      <li><a href="https://www.imdb.com/title/tt1485796/">The Greatest Showman</a></li>
+      <li>Donnie Darko</li>
+      <li>Hamilton</li>
+    </ul></li>
+    <li><ul type="circle">
+      <h3>Diziler</h3>
+      <li><a href="https://www.imdb.com/title/tt0460649/">How I Met Your Mother</a></li>
+      <li>Utopia</li>
+      <li>Loki</li>
+    </ul></li>
+    <li><ul type="circle">
+      <h3>Kitaplar</h3>
+      <li><a href="https://www.goodreads.com/book/show/56142083-i-fa?from_search=true&from_srp=true&qid=mVZhOiebzu&rank=3">İnsanın Fabrika Ayarları</a></li>
+      <li>Homo Deus</li>
+      <li>Sen Başla Gerisi Gelir</li>
+    </ul></li>
+    
+  </ol>
+ <br>
+  
+  <h2> Sevdiğim Filmler </h2>
+  <h3> The Prestige </h3>
+  <img src="https://foto.sondakika.com/haber/2016/08/26/prestij-filmi-cumartesi-gecesi-trt-1-8730524_x_4404_o.jpg" title="Christian Bale ve Hugh Jackman başrolleri üstleniyor.">
+  <p> Hem yönetmenine hem de oyuncu kadrosuna hayran olduğum bu yapım insan zihnini fazlasıyla zorluyor. </p>
+</body>
+</html>
